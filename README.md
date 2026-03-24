@@ -1,0 +1,4 @@
+Beatris Franklin Dantas Rodrigues 
+RA: 2041382521021
+
+08_exercicios_pbd_plsql_blocos_estrutura_sequencial_aritmetica
